@@ -1,0 +1,16 @@
+Item #,Component Name / Description,Qty,Unit Price (EGP),Total Price (EGP),Reference / Source Notes
+1,EMAX XA2212 Brushless Motor,4,450 EGP,"1,800 EGP",Main flight propulsion ($14.00/pc)
+2,Makerfire 25A ESC (Speed Controller),4,350 EGP,"1,400 EGP",Controls motor speeds
+3,Arduino Mega 2560 Rev3 (Clone),1,"1,450 EGP","1,450 EGP",https://www.ram-e-shop.com/shop/kit-arduino-mega2560-arduino-mega2560-rev3-original-chips-clone-6660?page=2&category=2
+4,MPU6050 (GY-521) 6-DOF IMU Sensor,1,175 EGP,175 EGP,https://www.ram-e-shop.com/shop/kit-imu-mpu6050-gy521-imu-6-dof-mpu-6050-gyroscope-accelerometer-sensor-module-7076
+5,HC-05 Bluetooth Module (6-pin),1,200 EGP,200 EGP,https://www.ram-e-shop.com/shop/kit-bluetooth-hc05-normal-hc-05-bluetooth-module-normal-6674
+6,"LiPo Battery (11.1V, 2200mAh, 3S, 30C)",1,"1,200 EGP","1,200 EGP",Main drone flight power
+7,Power Distribution Board (PDB),1,100 EGP,100 EGP,Splits battery power to the ESCs
+8,EMAX 8x4.5 Quadcopter Propellers,4,50 EGP,200 EGP,EMAX Prop Link ($1.63 per pair)
+9,Half-size Solderless Breadboard,1,60 EGP,60 EGP,Connections
+10,Jumper Wires (Male-Male / Male-Female),1,40 EGP,40 EGP,Signal connections
+11,Popsicle Sticks,-,Not Priced,Not Priced,Custom Frame Material
+12,Foam,-,Not Priced,Not Priced,Custom Frame Material
+13,Glue,-,Not Priced,Not Priced,Custom Frame Material
+-,Total Project Cost (EGP),,,"6,625 EGP",
+-,Total Project Cost (USD),,,~$210.00 USD,Baseline exchange conversion
